@@ -1,0 +1,5 @@
+html = hipertext markup language
+Código pra tag  <tag> conteúdo </tag>
+                 <!-- comentário -->  
+
+Facilidade pra enxergar = codigo identado 
