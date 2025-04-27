@@ -40,7 +40,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px auto;
   padding: 0 24px;
   /*o margin funciona como um relogio em sentido horario, 2 comandos são apenas cima e baixo e esquerda e direita, 3 sendo a primeira aplicada em cima, a segunda nas laterais e a terceira embaixo e a quarta funcionando como um relogio sendo cima direita baixo esquerda*/
